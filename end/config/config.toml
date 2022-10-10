@@ -1,0 +1,23 @@
+
+[common]
+  listart = 10
+  maxart = 5
+  path = "/opt/images/"
+  port = "8080"
+
+[homeinfo]
+  footbar01 = ["品牌xx","xx简介","xx文化","xx党建","xx发展"]
+  footbar02 = ["品牌xx","xx简介","xx文化","xx党建","xx发展"]
+  footbar03 = ["品牌xx","xx简介","xx文化","xx党建","xx发展"]
+  footbar04 = ["品牌xx","xx简介","xx文化","xx党建","xx发展"]
+  footbar05 = ["联系我们","廉政举报","400-800-8820","沈阳市浑南区","投递简历"]
+  navbar = ["首页","品牌简介","诊疗实力","品牌指南","品牌党建","教学科研","新闻中心","简历提交"]
+  newbar = ["集团发布","各院新闻","公益事业"]
+
+[mysql]
+  charset = "utf8"
+  database = "sql01"
+  host = "127.0.0.1"
+  password = "1234"
+  port = "3306"
+  username = "root"
